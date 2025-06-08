@@ -20,6 +20,7 @@ A powerful, fully customized level editor made in Unity using Odin Inspector. Bu
 - Spawn blocks and tiles in the scene.
 - Auto-animation with DOTween.
 - Level switching, auto-transition every 5 seconds.
+  
 <table> <tr> 
   <td><img src="https://github.com/SinlessDevil/Grid_Level_Editor/blob/main/Images/4.png" width="300"/></td> 
   <td><img src="https://github.com/SinlessDevil/Grid_Level_Editor/blob/main/Images/5.png" width="300"/></td> 
